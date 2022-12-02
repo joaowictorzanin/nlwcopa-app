@@ -5,4 +5,4 @@ Para iniciar a aplicação deve se instalar as dependencias utilizando NPM INSTA
 
 aplicação feita em expo, com React Native, 
 para iniciar o server utilizar o comando NPM RUN DEV, e o prisma NPX PRISMA STUDIO
-para iniciar o mobile utilizar npx expo start
+para iniciar o mobile utilizar NPX EXPO START
